@@ -1,2 +1,5 @@
 # One-Percent-Improvement-Server
-# One-Percent-Improvement-Server
+
+### `npm install`
+### `npm run dev`
+
