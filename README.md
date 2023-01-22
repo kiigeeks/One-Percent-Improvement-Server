@@ -1,12 +1,9 @@
 # One-Percent-Improvement-Server
 
-install node modules
+* Install node modules 
 ### `npm install`
-
-duplicate .env.example and rename .env
-create db use dbms mysql (/src/config/Database.js)
-or import db_opi - default.sql
-
-run 
+* Duplicate .env.example and rename .env
+* Create db use dbms mysql (/src/config/Database.js) or import db_opi - default.sql
+* Run development mode 
 ### `npm run dev`
 
